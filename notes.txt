@@ -1,0 +1,4 @@
+44.1 kHz (44100 samples per second)
+16 bits per sample
+
+
